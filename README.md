@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adeen Waqqas</h1>
+<h1 align="center">Hi 👋, I'm Adeen</h1>
 <h3 align="center">A passionate Data Science/Machine Learning and Software Engineer equipped with updated knowledge of software development and data data science</h3>
 
 <hr>
